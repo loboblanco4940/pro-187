@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stop Sign
+* source:	https://sketchfab.com/3d-models/stop-sign-b1f16ea7ef834a1cbabb2b8f2bbf1f77
+* author:	AnshiNoWara2 (https://sketchfab.com/Anshinowara2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stop Sign" (https://sketchfab.com/3d-models/stop-sign-b1f16ea7ef834a1cbabb2b8f2bbf1f77) by AnshiNoWara2 (https://sketchfab.com/Anshinowara2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
